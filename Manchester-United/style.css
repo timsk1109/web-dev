@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+    font-weight: normal;
+    color: red;
+}
+#main {
+    background:whitesmoke;
+    color: black;
+    font-family: 'Times New Roman', serif;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+        border-width: 2px 2px;
+    margin: 0px;
+    padding:0px
+}
